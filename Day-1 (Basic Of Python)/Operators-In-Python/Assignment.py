@@ -3,7 +3,7 @@
 """
 = is the Assignment Operator in Python. It is used to Assign a Value to a Variable.
 += addition and assignment the value
--= Subtr5act And Assignment the value
+-= Subtract And Assignment the value
 *= Multiply And Assignment the value
 /= Divide And Assignment the value
 //= Floor Division And Assignment the value
