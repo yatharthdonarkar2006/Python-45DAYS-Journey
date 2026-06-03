@@ -12,4 +12,8 @@ for i in range (1, num + 1) :
     
 print(fact)
     
+    # output 
+"""Enter the number : 5
+120 
+"""
     
